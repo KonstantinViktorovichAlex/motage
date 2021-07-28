@@ -1,0 +1,2 @@
+export const SET_FULL_MENU = 'SET_FULL_MENU';
+export const SET_COMPONENT = 'SET_COMPONENT';

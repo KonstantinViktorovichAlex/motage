@@ -1,0 +1,6 @@
+export const SET_LOGIN_NAME = 'SEET_LOGIN';
+export const SET_PASSWORD = 'SET_PASSWORD';
+export const SET_ISVALID_LOGIN = 'SET_ISVALID_LOGIN';
+export const SET_ISVALID_PASSWORD = 'SET_ISVALID_PASSWORD';
+export const SET_REMEMBER_ME = 'SET_REMEMBER_ME';
+export const SET_LOGIN = 'SET_LOGIN';

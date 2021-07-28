@@ -1,0 +1,8 @@
+.addMaterial:hover {
+    color: #0d6efd !important;
+    cursor: pointer;
+}
+.deleteMaterialModal:hover {
+    color: rgb(255, 0, 0) !important;
+    cursor: pointer;
+}

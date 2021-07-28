@@ -1,0 +1,13 @@
+.navbarHoverText:hover {
+    color: #0d6efd !important;
+    cursor: pointer;
+}
+.navbarHoverItem:hover {
+    background-color: rgba(31, 31, 81, 0.71);
+    color: white !important;
+    border-left: 3px solid #0d6efd;
+}
+.closeMenu {
+    margin-left: 12px;
+    width: 58px;
+}
